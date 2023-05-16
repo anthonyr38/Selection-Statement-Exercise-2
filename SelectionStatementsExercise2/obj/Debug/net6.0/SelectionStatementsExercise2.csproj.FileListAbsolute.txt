@@ -1,0 +1,15 @@
+C:\Users\fulls\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\obj\Debug\net6.0\SelectionStatementsExercise2.csproj.AssemblyReference.cache
+C:\Users\fulls\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\obj\Debug\net6.0\SelectionStatementsExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fulls\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\obj\Debug\net6.0\SelectionStatementsExercise2.AssemblyInfoInputs.cache
+C:\Users\fulls\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\obj\Debug\net6.0\SelectionStatementsExercise2.AssemblyInfo.cs
+C:\Users\fulls\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\obj\Debug\net6.0\SelectionStatementsExercise2.csproj.CoreCompileInputs.cache
+C:\Users\fulls\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\bin\Debug\net6.0\SelectionStatementsExercise2.exe
+C:\Users\fulls\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\bin\Debug\net6.0\SelectionStatementsExercise2.deps.json
+C:\Users\fulls\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\bin\Debug\net6.0\SelectionStatementsExercise2.runtimeconfig.json
+C:\Users\fulls\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\bin\Debug\net6.0\SelectionStatementsExercise2.dll
+C:\Users\fulls\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\bin\Debug\net6.0\SelectionStatementsExercise2.pdb
+C:\Users\fulls\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\obj\Debug\net6.0\SelectionStatementsExercise2.dll
+C:\Users\fulls\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\obj\Debug\net6.0\refint\SelectionStatementsExercise2.dll
+C:\Users\fulls\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\obj\Debug\net6.0\SelectionStatementsExercise2.pdb
+C:\Users\fulls\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\obj\Debug\net6.0\SelectionStatementsExercise2.genruntimeconfig.cache
+C:\Users\fulls\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\obj\Debug\net6.0\ref\SelectionStatementsExercise2.dll
